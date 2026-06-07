@@ -1,0 +1,16 @@
+here we are wokring with 4 layer architecture
+
+1.UI(How my login,logout...Ui will look like)
+=>component
+=>pages
+
+2.Hook(for managing state and api layers)
+=>hooks
+
+3.State(it will store the data that will be coing from UI)
+=>auth.context.jsx
+=>ai.context.jsx
+
+4.Api(for communication with backend)
+=>services
+  =>auth.api.js

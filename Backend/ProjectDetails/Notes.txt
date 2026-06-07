@@ -1,0 +1,8 @@
+APP.JS:-this for the creation of server and it will contain middlewares and jo bhi api/routes create kia usse use krna.
+SERVER.JS:-for server generate
+.env:-A .env file is a simple text file used to store environment variables—sensitive or configuration-specific information that should stay separate from your application’s main code.
+      It will our database(MongodB)link
+Database pass:-FiPnJ405DXMsWjyk
+link:-mongodb+srv://themishra5555_db_user:<FiPnJ405DXMsWjyk>@interview-ai-cluster.q3qux1a.mongodb.net/interview-master
+routes:-this will conatin all routes to our api's
+auth.routes.js:-this will conatin auth related api
