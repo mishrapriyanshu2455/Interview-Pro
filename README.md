@@ -59,7 +59,17 @@ npm run dev
 Open the app at `http://localhost:5173` (Vite default) or the port Vite reports.
 
 ## Screenshots
-<img width="983" height="905" alt="Screenshot 2026-06-07 175809" src="https://github.com/user-attachments/assets/f1a40a14-2b08-4c34-b42b-7cecbb32952d" />
+
+<img width="983" height="905" alt="Screenshot 2026-06-07 175809" src="https://github.com/user-attachments/assets/71723f1f-5aab-4ea6-aa62-ec6a22496a5a" />
+
+<img width="1004" height="905" alt="Screenshot 2026-06-07 175801" src="https://github.com/user-attachments/assets/7a173213-182c-4928-bac0-4900c0508de8" />
+
+<img width="1304" height="903" alt="Screenshot 2026-06-07 175752" src="https://github.com/user-attachments/assets/c3708a46-a7a6-48b2-b5b5-71f02a143b01" />
+
+<img width="929" height="810" alt="Screenshot 2026-06-07 175725" src="https://github.com/user-attachments/assets/35cda569-aaea-4c85-a6b5-feec87a03850" />
+
+<img width="585" height="696" alt="Screenshot 2026-06-07 180358" src="https://github.com/user-attachments/assets/899a9ac3-f66a-4cbf-a123-6a1dbf05b1cb" />
+
 
 
 ## Troubleshooting
